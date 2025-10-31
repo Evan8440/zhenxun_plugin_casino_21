@@ -33,7 +33,7 @@ __plugin_meta__ = PluginMetadata(
     数据显示/数据清空 （管理员用）
     """.strip(),
     extra=PluginExtraData(
-        author="冥乐",
+        author="Evan8440",
         version="3.0",
         plugin_type=PluginType.NORMAL,
         menu_type="群内小游戏",
